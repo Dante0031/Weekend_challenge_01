@@ -1,0 +1,23 @@
+
+body {
+  background: #d1e0e0;
+}
+
+#employeeinfo {
+	float:left;
+	background-color: lightgrey;
+    width: 300px;
+    padding: 25px;
+    border: 25px solid navy;
+    margin: 25px;
+}
+
+#container {
+	float:right; 
+	background-color: lightgrey;
+    width: 300px;
+    padding: 25px;
+    border: 25px solid navy;
+    margin: 25px;
+
+}
